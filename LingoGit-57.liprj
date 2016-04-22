@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="https://github.com/test1MC/flare2.git" SourceSourceControlDatabaseRoot="https://github.com/test1MC/flare2.git/" SourceProjectGuid="978c1323-137b-4cff-89b3-98c968a97dbf" SourceControlBound="false">
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="https://github.com/test1MC/flare2.git" SourceSourceControlDatabaseRoot="https://github.com/test1MC/flare2.git/" SourceProjectGuid="978c1323-137b-4cff-89b3-98c968a97dbf" SourceControlBound="true" SourceControlDatabase="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-57.liprjf\.git" SourceControlProviderType="Git" ProjectGuid="b51f0976-d772-4618-ba56-338c16efcc96" SourceControlDatabaseRoot="C:\Users\dspencer\Documents\My Translated Projects\LingoGit-57.liprjf">
     <FlattenedVariables>
     </FlattenedVariables>
     <ProjectFile Source="Target/.gitignore" Target="Target/.gitignore" />
